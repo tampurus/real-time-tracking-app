@@ -64,16 +64,6 @@ A real-time location tracking application built with Node.js, Express, Socket.IO
   - Leaflet.js (for maps)
   - Socket.IO Client
 
-real-time-tracking-app/
-├── app.js                 # Main server file
-├── package.json           # Project dependencies
-├── public/                # Static files
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
-└── views/
-    └── index.ejs          # Main view template
 
 ## Important Notes
 
